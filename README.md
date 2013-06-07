@@ -117,12 +117,7 @@
 <tr>
 <td>Ctrl + n</td>
 <td>Next command in history (i.e. walk forward through the command history)</td>
-</tr>
-<tr>
-<td>Alt + .</td>
-<td>Use the last word of the previous command</td>
-</tr>
-<tr>
+</tr><tr>
 <td>Ctrl + s</td>
 <td>Go back to the next most recent command.</td>
 </tr>
@@ -133,6 +128,10 @@
 <tr>
 <td>Ctrl + g</td>
 <td>Escape from history searching mode</td>
+</tr>
+<tr>
+<td>Alt + .</td>
+<td>Use the last word of the previous command</td>
 </tr>
 </table>
 
