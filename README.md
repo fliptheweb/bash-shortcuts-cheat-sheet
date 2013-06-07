@@ -3,7 +3,7 @@
 ### Move cursor
 <table>
 <tr>
-<td>Ctrl + a</td>
+<td>`Ctrl` + `a`</td>
 <td>Go to the beginning of the line (Home)</td>
 </tr>
 <tr>
