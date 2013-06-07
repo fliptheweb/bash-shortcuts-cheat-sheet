@@ -1,4 +1,4 @@
-## Useful bash/zsh shortcuts
+## Useful bash / zsh shortcuts
 
 ### Move cursor
 <table>
