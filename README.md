@@ -135,10 +135,42 @@
 </tr>
 </table>
 
-### Control
+### Process control
+
 
 ### Bang(!)
+Bash also has some handy features that use the ! (bang) to allow you to do some funky stuff with bash commands.
 
+<table>
+<tr>
+<td>!!</td>
+<td>run last command</td>
+</tr>
+<tr>
+<td>!blah</td>
+<td>run the most recent command that starts with ‘blah’ (e.g. !ls)</td>
+</tr>
+<tr>
+<td>!blah:p</td>
+<td>print out the command that !blah would run (also adds it as the latest command in the command history)</td>
+</tr>
+<tr>
+<td>!$</td>
+<td>the last word of the previous command (same as Alt + .)</td>
+</tr>
+<tr>
+<td>!$:p</td>
+<td>print out the word that !$ would substitute</td>
+</tr>
+<tr>
+<td>!*</td>
+<td>the previous command except for the last word (e.g. if you type ‘find some_file.txt /‘, then !* would give you ‘find some_file.txt‘)</td>
+</tr>
+<tr>
+<td>!*:p</td>
+<td>print out what !* would substitute</td>
+</tr>
+</table>
 
 ## Recent links
 * [Bash Shortcuts For Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
