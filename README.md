@@ -11,14 +11,6 @@
 <td>Go to the End of the line (End)</td>
 </tr>
 <tr>
-<td>Ctrl + p</td>
-<td>Previous command (Up arrow)</td>
-</tr>
-<tr>
-<td>Ctrl + n</td>
-<td>Next command (Down arrow)</td>
-</tr>
-<tr>
 <td>Alt + b</td>
 <td>Back (left) one word</td>
 </tr>
@@ -41,6 +33,39 @@
 </table>
 
 ### Edit
+
 ### History
+<table>
+<tr>
+<td>Ctrl + r</td>
+<td>Recall the last command including the specified character(s)(equivalent to : vim ~/.bash_history). </td>
+</tr>
+<tr>
+<td>Ctrl + p</td>
+<td>Previous command in history (i.e. walk back through the command history)</td>
+</tr>
+<tr>
+<td>Ctrl + n</td>
+<td>Next command in history (i.e. walk forward through the command history)</td>
+</tr>
+<tr>
+<td>Alt + .</td>
+<td>Use the last word of the previous command</td>
+</tr>
+<tr>
+<td>Ctrl + s</td>
+<td>Go back to the next most recent command.</td>
+</tr>
+<tr>
+<td>Ctrl + o</td>
+<td>Execute the command found via Ctrl+r or Ctrl+s</td>
+</tr>
+<tr>
+<td>Ctrl + g</td>
+<td>Escape from history searching mode</td>
+</tr>
+</table>
+
 ### Control
+
 ### Bang(!)
