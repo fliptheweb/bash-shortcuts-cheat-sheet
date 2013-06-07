@@ -35,10 +35,6 @@
 ### Edit
 <table>
 <tr>
-<td>Ctrl + L</td>
-<td>Clear the Screen, similar to the clear command</td>
-</tr>
-<tr>
 <td>Ctrl + u</td>
 <td>Cut the line before the cursor position</td>
 </tr>
