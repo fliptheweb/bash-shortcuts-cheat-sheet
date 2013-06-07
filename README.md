@@ -69,3 +69,8 @@
 ### Control
 
 ### Bang(!)
+
+
+## Recent links
+* [Bash Shortcuts For Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
+* [Syntax Bashkeyboard](http://ss64.com/osx/syntax-bashkeyboard.html)
