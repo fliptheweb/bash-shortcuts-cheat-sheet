@@ -1,5 +1,7 @@
 ## Useful bash / zsh shortcuts
 
+For MacOS iTerm 2 users, turn on meta key — https://coderwall.com/p/_lmivq
+
 ### Move cursor
 <table>
 <tr>
