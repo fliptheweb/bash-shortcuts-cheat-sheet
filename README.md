@@ -1,6 +1,9 @@
 ## Useful bash / zsh shortcuts
 
-For MacOS iTerm 2 users, turn on meta key — https://coderwall.com/p/_lmivq
+MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
+
+Nice visual cheetsheet from [article](https://clementc.github.io/blog/2018/01/25/moving_cli/): 
+![visual cheetsheet](/moving_cli.jpg?raw=true)
 
 ### Move cursor
 <table>
