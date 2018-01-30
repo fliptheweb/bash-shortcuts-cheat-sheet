@@ -2,7 +2,8 @@
 
 MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
 
-Nice visual cheetsheet from [article](https://clementc.github.io/blog/2018/01/25/moving_cli/): 
+Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/01/25/moving_cli/): 
+
 ![visual cheetsheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/moving_cli.png?raw=true)
 
 ### Move cursor
@@ -176,3 +177,4 @@ Bash also has some handy features that use the ! (bang) to allow you to do some 
 ## Recent links
 * [Bash Shortcuts For Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
 * [Syntax Bashkeyboard](http://ss64.com/osx/syntax-bashkeyboard.html)
+* [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
