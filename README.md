@@ -101,7 +101,7 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 <td>Cancel the changes and put back the line as it was in the history (revert)</td>
 </tr>
 <tr>
-<td>Сtrl + _</td>
+<td>Сtrl + _ </td>
 <td>Undo</td>
 </tr>
 </table>
