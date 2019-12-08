@@ -45,7 +45,7 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 <td>Cut the line before the cursor position</td>
 </tr>
 <tr>
-<td>Alt + Del</td>
+<td>Alt + Backspace (Del on macOS)</td>
 <td>Delete the Word before the cursor</td>
 </tr>
 <tr>
