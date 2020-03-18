@@ -143,7 +143,7 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 ### Bang(!) - The History Expansion
 Bash also has some handy features that use the ! (bang) to allow you to do some funky stuff with bash commands.<br>
 General notation is `'![event][:word[:modifier[:modifier]...]]'`.<br>
-You may ommit word separator `':'`, if the word designator begins with a `'^'`, `'$'`, `'*'`, `'-'`, or `'%'`.<br>
+You may omit word separator `':'`, if the word designator begins with a `'^'`, `'$'`, `'*'`, `'-'`, or `'%'`.<br>
 If a word designator is supplied without an event specification, the previous command is used as the event.<br>
 After the optional word designator, you can add a sequence of one or more modifiers, each preceded by a `':'`.<br>
 
