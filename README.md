@@ -14,7 +14,7 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 </tr>
 <tr>
 <td>Ctrl + e</td>
-<td>Go to the End of the line (End)</td>
+<td>Go to the end of the line (End)</td>
 </tr>
 <tr>
 <td>Alt + b</td>
@@ -25,12 +25,12 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 <td>Forward (right) one word</td>
 </tr>
 <tr>
-<td>Ctrl + f</td>
-<td>Forward one character</td>
-</tr>
-<tr>
 <td>Ctrl + b</td>
 <td>Backward one character</td>
+</tr>
+<tr>
+<td>Ctrl + f</td>
+<td>Forward one character</td>
 </tr>
 <tr>
 <td>Ctrl + xx</td>
@@ -45,28 +45,12 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 <td>Cut the line before the cursor position</td>
 </tr>
 <tr>
-<td>Alt + Del</td>
-<td>Delete the Word before the cursor</td>
-</tr>
-<tr>
-<td>Alt + d</td>
-<td>Delete the Word after the cursor</td>
-</tr>
-<tr>
 <td>Ctrl + d</td>
 <td>Delete character under the cursor</td>
 </tr>
 <tr>
 <td>Ctrl + h</td>
 <td>Delete character before the cursor (backspace)</td>
-</tr>
-<tr>
-<td>Ctrl + w</td>
-<td>Cut the Word before the cursor to the clipboard</td>
-</tr>
-<tr>
-<td>Ctrl + k</td>
-<td>Cut the Line after the cursor to the clipboard</td>
 </tr>
 <tr>
 <td>Alt + t</td>
@@ -79,10 +63,6 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 <tr>
 <td>Esc + t</td>
 <td>Swap the last two words before the cursor.</td>
-</tr>
-<tr>
-<td>Ctrl + y</td>
-<td>Paste the last thing to be cut (yank)</td>
 </tr>
 <tr>
 <td>Alt + u</td>
@@ -103,6 +83,30 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 <tr>
 <td>Сtrl + _ </td>
 <td>Undo</td>
+</tr>
+</table>
+
+### Cut and paste (kill and yank)
+<table>
+<tr>
+<td>Alt + Del</td>
+<td>Cut the word (or part of word) before the cursor to the clipboard</td>
+</tr>
+<tr>
+<td>Alt + d</td>
+<td>Cut the word (or part of word) after the cursor to the clipboard</td>
+</tr>
+<tr>
+<td>Ctrl + w</td>
+<td>Cut to the previous whitespace before the cursor to the clipboard</td>
+</tr>
+<tr>
+<td>Ctrl + k</td>
+<td>Cut the line after the cursor to the clipboard</td>
+</tr>
+<tr>
+<td>Ctrl + y</td>
+<td>Paste the last thing to be cut (yank)</td>
 </tr>
 </table>
 
