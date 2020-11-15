@@ -14,7 +14,7 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 </tr>
 <tr>
 <td>Ctrl + e</td>
-<td>Go to the End of the line (End)</td>
+<td>Go to the end of the line (End)</td>
 </tr>
 <tr>
 <td>Alt + b</td>
@@ -25,12 +25,12 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 <td>Forward (right) one word</td>
 </tr>
 <tr>
-<td>Ctrl + f</td>
-<td>Forward one character</td>
-</tr>
-<tr>
 <td>Ctrl + b</td>
 <td>Backward one character</td>
+</tr>
+<tr>
+<td>Ctrl + f</td>
+<td>Forward one character</td>
 </tr>
 <tr>
 <td>Ctrl + xx</td>
@@ -46,11 +46,11 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 </tr>
 <tr>
 <td>Alt + Del</td>
-<td>Delete the Word before the cursor</td>
+<td>Delete the word before the cursor</td>
 </tr>
 <tr>
 <td>Alt + d</td>
-<td>Delete the Word after the cursor</td>
+<td>Delete the word after the cursor</td>
 </tr>
 <tr>
 <td>Ctrl + d</td>
@@ -62,11 +62,11 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 </tr>
 <tr>
 <td>Ctrl + w</td>
-<td>Cut the Word before the cursor to the clipboard</td>
+<td>Cut the word before the cursor to the clipboard</td>
 </tr>
 <tr>
 <td>Ctrl + k</td>
-<td>Cut the Line after the cursor to the clipboard</td>
+<td>Cut the line after the cursor to the clipboard</td>
 </tr>
 <tr>
 <td>Alt + t</td>
