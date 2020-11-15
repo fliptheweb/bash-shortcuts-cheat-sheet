@@ -46,11 +46,11 @@ Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/0
 </tr>
 <tr>
 <td>Alt + Del</td>
-<td>Delete the word before the cursor</td>
+<td>Cut the word (or part of word) before the cursor to the clipboard</td>
 </tr>
 <tr>
 <td>Alt + d</td>
-<td>Delete the word after the cursor</td>
+<td>Cut the word (or part of word) after the cursor to the clipboard</td>
 </tr>
 <tr>
 <td>Ctrl + d</td>
