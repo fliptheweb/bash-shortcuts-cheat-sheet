@@ -2,9 +2,12 @@
 
 MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
 
-Nice visual cheatsheet from the [article](https://clementc.github.io/blog/2018/01/25/moving_cli/): 
-
-![visual cheetsheet](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet/blob/master/moving_cli.png?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="moving_cli_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="moving_cli.png">
+  <img alt="Terminal shortcuts cheatsheet" src="moving_cli_bg.png">
+</picture>
+<sub>Source: [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)</sub>
 
 ### Move cursor
 <table>
