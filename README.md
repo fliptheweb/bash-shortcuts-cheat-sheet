@@ -7,9 +7,9 @@ MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
   <source media="(prefers-color-scheme: light)" srcset="moving_cli.png">
   <img alt="Terminal shortcuts cheatsheet" src="moving_cli_bg.png">
 </picture>
-<sub>Source: [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)</sub>
+<sub>Source: https://clementc.github.io/blog/2018/01/25/moving_cli/</sub>
 
-### Move cursor
+## Move cursor
 <table>
 <tr>
 <td>Ctrl + a</td>
@@ -41,7 +41,7 @@ MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
 </tr>
 </table>
 
-### Edit
+## Edit
 <table>
 <tr>
 <td>Ctrl + u</td>
@@ -109,7 +109,7 @@ MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
 </tr>
 </table>
 
-### History
+## History
 <table>
 <tr>
 <td>Ctrl + r</td>
@@ -140,7 +140,7 @@ MacOS iTerm 2 users must turn on meta key — https://coderwall.com/p/_lmivq
 </tr>
 </table>
 
-### Process control
+## Process control
 
 
 ### Bang(!) - The History Expansion
@@ -549,7 +549,7 @@ echo baz bar baz
   </tr>
 </table>
 
-## Recent links
+## Further Reading
 * [Bash Shortcuts For Maximum Productivity](http://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
 * [Syntax Bashkeyboard](http://ss64.com/osx/syntax-bashkeyboard.html)
 * [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
